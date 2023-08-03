@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function () {
             case "neofetch":
                 clearInput();
                 addTextToResults('Web development examples!');
-                openLinkInNewWindow('https://www.youtube.com/channel/UCjJGyqNHgIOntnY_MDoXVZA?view_as=subscriber');
+                // openLinkInNewWindow('https://www.youtube.com/channel/UCjJGyqNHgIOntnY_MDoXVZA?view_as=subscriber');
                 break;
 
             case "hello":
